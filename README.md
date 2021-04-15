@@ -53,9 +53,7 @@ npm start
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
-    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge" alt="MongoDB" /></a>
     <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-IndexDB-blue?style=for-the-badge" alt="IndexDB" /></a>
 </p>
 
 ## License
