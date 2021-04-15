@@ -1,4 +1,4 @@
-# Budget-Tracker
+# Employee-Directory
 ## Description
 
 This Project consists of a React Web application that utilizes an API and lets user to view a list of employees, search for a specific employee, and sort the employee by either name. When you search for an employee it will immediately give you a result and clicking on the buttons will sort the employees either in ascending or descending order.
