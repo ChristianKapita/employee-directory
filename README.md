@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Budget-Tracker
+## Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project consists of a React Web application that utilizes an API and lets user to view a list of employees, search for a specific employee, and sort the employee by either name. When you search for an employee it will immediately give you a result and clicking on the buttons will sort the employees either in ascending or descending order.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+* [Installation](#installation)
+* [Usage](#usage)
+    * [Screenshots](#screenshots)
+* [Credits](#credits)
+* [License](#license)
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Steps to install application:
+1. Clone repository.
+2. In the directory run npm install to install node dependencies
+3. Type npm start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+git clone git@github.com:ChristianKapita/Budget-Trackers.git
+npm install
+npm start
 
-### `npm test`
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+### Screenshots
 
-### `npm run build`
+1. Application demo 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Untitled_ Apr 15, 2021 5_40 PM (2)](https://user-images.githubusercontent.com/73804862/114942973-530f2200-9e13-11eb-854e-a8270e548190.gif)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Main Page
+![Landing Page](https://user-images.githubusercontent.com/73804862/114941360-12aea480-9e11-11eb-8e9f-9f87dd7dab4e.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- 💼 Christian Kapita
+- :octocat: Github: [ChristianKapita](https://github.com/ChristianKapita)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Technologies used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</br>
+<p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
+    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
+    <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
+    <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
+    <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge" alt="MongoDB" /></a>
+    <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-IndexDB-blue?style=for-the-badge" alt="IndexDB" /></a>
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</br>
+<p align="center">
+    <img align="center" src="https://img.shields.io/github/license/kqarlos/team-profile-generator?style=for-the-badge" alt="MIT license" />
+</p>
