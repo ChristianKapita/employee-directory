@@ -19,7 +19,7 @@ Steps to install application:
 3. Type npm start
 
 ```
-git clone git@github.com:ChristianKapita/Budget-Trackers.git
+git clone git@github.com:ChristianKapita/employee-directory.gitg
 npm install
 npm start
 
